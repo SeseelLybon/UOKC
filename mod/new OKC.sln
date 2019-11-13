@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mod", "mod", "{CC42FC78-681A-43B3-9B16-B362D59E6D14}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\..\..\Games\Supreme Commander - Forged Alliance\bin\DamnLog.txt = ..\..\..\..\..\..\..\..\Games\Supreme Commander - Forged Alliance\bin\DamnLog.txt
+		mod_info.lua = mod_info.lua
+		hook\lua\simCallbacks.lua = hook\lua\simCallbacks.lua
+		hook\lua\simInit.lua = hook\lua\simInit.lua
+		UOKC WIP1A README.txt = UOKC WIP1A README.txt
+		hook\lua\userInit.lua = hook\lua\userInit.lua
+		hook\lua\wreckage.lua = hook\lua\wreckage.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sim", "sim", "{931F2EC4-8BA9-4501-8DE5-EFEEDDE3C2EC}"
+	ProjectSection(SolutionItems) = preProject
+		hook\lua\sim\blip.lua = hook\lua\sim\blip.lua
+		hook\lua\sim\CollisionBeam.lua = hook\lua\sim\CollisionBeam.lua
+		hook\lua\sim\DefaultWeapons.lua = hook\lua\sim\DefaultWeapons.lua
+		hook\lua\sim\entity.lua = hook\lua\sim\entity.lua
+		lua\sim\Painter.lua = lua\sim\Painter.lua
+		hook\lua\sim\projectile.lua = hook\lua\sim\projectile.lua
+		hook\lua\sim\unit.lua = hook\lua\sim\unit.lua
+		hook\lua\sim\weapon.lua = hook\lua\sim\weapon.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "system", "system", "{E6D11CE6-24F8-4F49-BEFF-4E34C9AC4306}"
+	ProjectSection(SolutionItems) = preProject
+		hook\lua\system\blueprints.lua = hook\lua\system\blueprints.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ui slash game", "ui slash game", "{DF17CAC7-793D-42B0-A739-6E4A484CEFD4}"
+	ProjectSection(SolutionItems) = preProject
+		hook\lua\ui\game\commandmode.lua = hook\lua\ui\game\commandmode.lua
+		hook\lua\ui\controls\worldview.lua = hook\lua\ui\controls\worldview.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ref", "ref", "{7585C411-CB45-4978-9580-59C29AD36EB8}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\defaultunits.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\defaultunits.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sim", "sim", "{B10BCB39-7D24-4518-AF8E-880C87A4FA90}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\sim\Projectile.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\sim\Projectile.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\sim\Prop.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\sim\Prop.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\shield.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\shield.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\sim\Unit.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\sim\Unit.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "moho sim", "moho sim", "{9EAEBDFE-CF12-4B27-B4C4-A38675E7BFDA}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Blip.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Blip.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\CollisionBeam.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\CollisionBeam.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\defaultweapons.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\defaultweapons.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Entity.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Entity.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Projectile.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Projectile.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Prop.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Prop.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Unit.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\Unit.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\weapon.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\sim\weapon.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "moho system", "moho system", "{7C4628D7-8914-4BF2-8268-4CFE877EADAC}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\system\class.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\system\class.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\system\import.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\system\import.lua
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\system\SingleEvent.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\mohodata\lua\system\SingleEvent.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "projectiles", "projectiles", "{17CE5BD7-6C62-4BBA-AE35-5AFB2B1F2E4F}"
+	ProjectSection(SolutionItems) = preProject
+		projectiles\PainterProjectile_proj.bp = projectiles\PainterProjectile_proj.bp
+		projectiles\PainterProjectile_script.lua = projectiles\PainterProjectile_script.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ui", "ui", "{069D6B8C-A4F3-4DBF-8599-5DCB0F0655D2}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\ui\game\commandmode.lua = D:\Games\Supreme Commander\Forged Alliance\extracted star.scd files\lua\ui\game\commandmode.lua
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{931F2EC4-8BA9-4501-8DE5-EFEEDDE3C2EC} = {CC42FC78-681A-43B3-9B16-B362D59E6D14}
+		{E6D11CE6-24F8-4F49-BEFF-4E34C9AC4306} = {CC42FC78-681A-43B3-9B16-B362D59E6D14}
+		{DF17CAC7-793D-42B0-A739-6E4A484CEFD4} = {CC42FC78-681A-43B3-9B16-B362D59E6D14}
+		{17CE5BD7-6C62-4BBA-AE35-5AFB2B1F2E4F} = {CC42FC78-681A-43B3-9B16-B362D59E6D14}
+		{B10BCB39-7D24-4518-AF8E-880C87A4FA90} = {7585C411-CB45-4978-9580-59C29AD36EB8}
+		{9EAEBDFE-CF12-4B27-B4C4-A38675E7BFDA} = {7585C411-CB45-4978-9580-59C29AD36EB8}
+		{7C4628D7-8914-4BF2-8268-4CFE877EADAC} = {7585C411-CB45-4978-9580-59C29AD36EB8}
+		{069D6B8C-A4F3-4DBF-8599-5DCB0F0655D2} = {7585C411-CB45-4978-9580-59C29AD36EB8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+ProjectileBlueprint {
+    Categories = {
+        'PROJECTILE',
+        'DIRECTFIRE',
+    },
+    Display = {
+        StrategicIconSize = 0,
+    },
+    General = {
+        Category = 'Direct Fire',
+        EntityCategory = {
+            'PROJECTILE',
+            'DIRECTFIRE',
+        },
+    },
+    Physics = {
+        UseGravity = true,
+    },
+}

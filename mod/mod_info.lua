@@ -1,0 +1,11 @@
+name	= "Ultimate OKC WIP20"
+author	= "BulletMagnet"
+uid		= "db2292e8-62d7-4a46-a0c2-fd00d2d5b6b1"
+version	= 26
+description	= "All weapons now intelligently re-target, making overkill and wasting shots a thing of the past."
+selectable	= true
+enabled		= true
+exclusive	= false
+ui_only		= false
+--location	= 'UOKC'
+conflicts		= {"00829af8cd-f169-403f-9ab0-ec9014a2f406"}
